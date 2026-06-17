@@ -1,0 +1,1 @@
+SELECT Id, Name FROM Product2 WHERE Name = 'USPS Ground' or Name = 'Shipping Charge Product'

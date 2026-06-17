@@ -1,0 +1,1 @@
+SELECT Id, SalesChannelName FROM SalesChannel WHERE SalesChannelName = 'Workbench'

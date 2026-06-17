@@ -1,0 +1,1 @@
+SELECT Id FROM PricebookEntry WHERE Product2.Name = 'USPS Ground' or Product2.Name like 'Shipping%'

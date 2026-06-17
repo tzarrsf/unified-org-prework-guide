@@ -1,0 +1,1 @@
+SELECT Id FROM OrderDeliveryMethod WHERE Name = 'USPS Ground' or Name = 'Fedex Ground'

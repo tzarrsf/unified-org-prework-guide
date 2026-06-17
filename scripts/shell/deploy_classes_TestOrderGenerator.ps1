@@ -1,0 +1,1 @@
+sf project deploy start --metadata ApexClass:TestOrderGenerator

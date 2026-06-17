@@ -1,0 +1,1 @@
+System.debug(DateTime.newInstance(Date.today(), Time.newInstance(0, 0, 0, 0)).formatGMT('yyyy-MM-dd'));
