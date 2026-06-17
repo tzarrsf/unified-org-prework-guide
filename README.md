@@ -1,2 +1,2 @@
 # unified-org-prework-guide-source
-Unified Salesforce Org Prework Guide Source
+This repository supplements the partner technical enablement activity:  Unified Salesforce Org Prework Guide
