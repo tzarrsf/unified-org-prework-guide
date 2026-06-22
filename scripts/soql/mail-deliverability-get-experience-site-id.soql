@@ -1,0 +1,3 @@
+SELECT Id, WebStore.Name, NetworkId, WebStoreId
+FROM WebStoreNetwork
+WHERE WebStore.Name in ('B2B Store','commercepractice','D2C Store')
