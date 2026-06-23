@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Async Email Verification</name>
+    <style>none</style>
+    <subject>Please verify your email address</subject>
+    <textOnly>Hello,
+
+Please verify your email address by clicking the link below:
+
+{!EmailVerify.Url}&quot;
+
+If you did not request this, you can ignore this email</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

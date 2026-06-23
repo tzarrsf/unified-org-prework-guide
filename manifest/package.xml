@@ -4,5 +4,13 @@
         <members>*</members>
         <name>ApexClass</name>
     </types>
-    <version>65.0</version>
+    <types>
+        <members>Communities</members>
+        <name>EmailFolder</name>
+    </types>
+    <types>
+        <members>Communities/Async_Email_Verification</members>
+        <name>EmailTemplate</name>
+    </types>
+    <version>67.0</version>
 </Package>
